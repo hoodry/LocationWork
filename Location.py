@@ -1,2 +1,2 @@
 person = input('Enter your name: ')
-print('Hello', person)
+print('This is another test', person)
